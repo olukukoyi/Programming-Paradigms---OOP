@@ -2,6 +2,7 @@
 using namespace std;
 
 // method overloading
+// when the methods have the same name but different functionality based off of the inputs data type
 
 int addOne(int a)
 {

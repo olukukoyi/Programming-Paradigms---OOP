@@ -18,13 +18,6 @@ public:
         this->price = price;
         this->name = name;
     }
-    // Car(string _model, int _yearModel, int _price, string _name)
-    // {
-    //     model = _model;
-    //     yearModel = _yearModel;
-    //     price = _price;
-    //     name = _name;
-    // }
 
     void getName() // getter
     {
@@ -52,7 +45,7 @@ public:
     void getCompany() // getter
     {
         cout << companyName << endl;
-        }
+    }
 };
 
 int main()
