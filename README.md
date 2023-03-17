@@ -7,7 +7,7 @@ Topics covered:
 
 2) Interfaces
 
-3) Operator OverLoading
+3) Operator OverLoading & Overriding
 
 4) Polymorphism
 
@@ -16,5 +16,7 @@ Topics covered:
 6) Abstract Classes
 
 7) Encapsulation
+
+8) Method Overloading & Overriding
 
 Feel free to fork and append topics
